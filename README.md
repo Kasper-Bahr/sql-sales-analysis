@@ -13,6 +13,13 @@ The database simulates a simple e-commerce system with customers, products, and 
 - SQLite
 - GitHub
 
+## Project Structure
+
+schema.sql – database structure  
+data.sql – sample dataset  
+analysis.sql – SQL queries used for analysis  
+README.md – project documentation
+
 ---
 
 ## Database Structure
@@ -82,3 +89,4 @@ analysis.sql → analytical SQL queries
 - Some customers generate significantly higher revenue than others.
 - Product revenue varies depending on price and quantity sold.
 - Monthly revenue analysis can help identify sales trends.
+
